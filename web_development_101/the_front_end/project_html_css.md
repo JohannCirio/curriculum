@@ -3358,6 +3358,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [AAGRU's Solution (Easy)](https://github.com/AAGRU/TOD_Google_homepage/) - [View in Browser](https://aagru.github.io/TOD_Google_homepage/)
 * [dzalee16 Solution (Easy)](https://github.com/dzalee16/google-homepage) - [View in Browser](https://dzalee16.github.io/google-homepage/)
 * [dgamarra93's Solution (Easy)](https://github.com/dgamarra93/google_homepage) - [View in Browser](https://dgamarra93.github.io/google_homepage/)
+* [JohannCirio's Solution (Easy)](https://github.com/JohannCirio/google-homepage) - [View in Browser](https://johanncirio.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
